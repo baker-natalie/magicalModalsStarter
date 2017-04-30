@@ -1,5 +1,5 @@
 # My Modals Are Beautiful, They Just Aren't Magic
 
+This is companion boilerplate for my article on building iterating modals with react-bootstrap. Read it (here)[#] and get started making modals!
 
-Built with Redux Simple Starter by Stephen Grider
-https://github.com/StephenGrider/ReduxSimpleStarter.git
+`git clone https://github.com/baker-natalie/magicalModalsStarter.git`
